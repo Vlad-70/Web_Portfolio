@@ -5,7 +5,7 @@ def send_email(message):
     host = "smtp.gmail.com"
     port = 465
     user_name = "megacoursepyt@gmail.com"
-    app_password = "ywhckdgfhqhhspko"     # it's better to use Environment Variables
+    app_password =      # it's better to use Environment Variables
     receiver = "khamvgdev@gmail.com"
     my_context = ssl.create_default_context()
 
